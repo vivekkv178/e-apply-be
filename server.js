@@ -4,7 +4,7 @@
  * Module dependencies.
  */
 require("dotenv").config();
-var app = require("../app");
+var app = require("./app");
 var debug = require("debug")("e-apply-be:server");
 var http = require("http");
 
