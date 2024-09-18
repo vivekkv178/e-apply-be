@@ -38,6 +38,6 @@ const router = express.Router();
  *                 message:
  *                   type: string
  */
-router.get("/", service);
+router.get("/sendEmails", service);
 
 module.exports = router;
