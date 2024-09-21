@@ -4,9 +4,11 @@ const sendEmail = require("../../../utils/node-mailer.service");
 module.exports = async (req, res, next) => {
   const { body } = req;
   try {
-    const info = await sendEmail();
+    for (const row of body?.rowData) {
+      const info = await sendEmail(row);
+    }
 
-    res.send(info);
+    res.send("Success");
   } catch (error) {
     console.log(error);
     next(createError(500));

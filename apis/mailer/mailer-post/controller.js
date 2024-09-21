@@ -4,7 +4,7 @@ const router = express.Router();
 
 /**
  * @openapi
- * /e-apply/sendEmails:
+ * /e-apply/send-emails:
  *   post:
  *     summary: Add a new client
  *     tags: [Open API]
@@ -38,6 +38,6 @@ const router = express.Router();
  *                 message:
  *                   type: string
  */
-router.get("/sendEmails", service);
+router.post("/send-emails", service);
 
 module.exports = router;
