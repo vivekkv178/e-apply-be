@@ -39,7 +39,7 @@ const attachmentsObject = {
 
 const getSpecificRoleTemplate = (emailDetails) => `<div dir="ltr">
                 <span style="color:rgba(0,0,0,0.9);font-family:-apple-system,system-ui,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue','Fira Sans',Ubuntu,Oxygen,'Oxygen Sans',Cantarell,'Droid Sans','Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol','Lucida Grande',Helvetica,Arial,sans-serif;font-size:14px">
-                    Dear ${emailDetails?.name} 👋,
+                    Hi ${emailDetails?.name} 👋,
                 </span>
                 <br>
                 <br>
@@ -177,8 +177,7 @@ const sendEmail = (emailDetails) => {
       const info = await transporter.sendMail({
         from: `"Vivek KV 🎓" <${ENV_CONFIG.GMAIL_ID}>`, // sender address
         to: emailDetails?.email, // list of receivers
-        subject: `🎯 Job Application - ${emailDetails?.role}`, // Subject line
-        // text: "Hello world?", // plain text body
+        subject: `💼  Job Application - ${emailDetails?.role}`, // Subject line
         html:
           emailDetails?.template === "Tech"
             ? getTechRoleTemplate(emailDetails)
