@@ -25,6 +25,12 @@ const attachmentsObject = {
       path: "https://raw.github.com/vivekkv178/e-apply-be/main/docs/Vivek_KV_Europass.pdf",
     },
   ],
+  Word: [
+    {
+      filename: "Vivek_KV_CV.docx",
+      path: "https://raw.github.com/vivekkv178/e-apply-be/main/docs/Vivek_KV_CV.docx",
+    },
+  ],
   Both: [
     {
       filename: "Vivek_KV_Europass.pdf",

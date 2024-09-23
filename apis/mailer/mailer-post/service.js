@@ -5,7 +5,7 @@ module.exports = async (req, res, next) => {
   const { body } = req;
   try {
     for (const row of body?.rowData) {
-      const info = await sendEmail(row);
+      if (row?.ignore === "No") await sendEmail(row);
     }
 
     res.send("Success");
