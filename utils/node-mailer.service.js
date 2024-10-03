@@ -74,7 +74,7 @@ const getSpecificRoleTemplate = (emailDetails) => `<div dir="ltr">
                 <br>
                 <br>
                 <span style="color:rgba(0,0,0,0.9);font-family:-apple-system,system-ui,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue','Fira Sans',Ubuntu,Oxygen,'Oxygen Sans',Cantarell,'Droid Sans','Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol','Lucida Grande',Helvetica,Arial,sans-serif;font-size:14px">
-                    Are you open to a quick chat to discuss the opportunity? I’d love to learn more about it and share more about my own qualifications. I look forward to hearing from you 🕒.
+                    Are you open to a quick chat to discuss the opportunity? I’d love to learn more about it and share more about my own qualifications. I look forward to hearing from you soon 🕒.
                 </span>
                 <br>
                 <br>
@@ -141,7 +141,7 @@ const getTechRoleTemplate = (emailDetails) => `<div dir="ltr">
                 <br>
                 <br>
                 <span style="color:rgba(0,0,0,0.9);font-family:-apple-system,system-ui,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue','Fira Sans',Ubuntu,Oxygen,'Oxygen Sans',Cantarell,'Droid Sans','Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol','Lucida Grande',Helvetica,Arial,sans-serif;font-size:14px">
-                    Are you open to a quick chat to discuss the opportunity? I’d love to learn more about it and share more about my own qualifications. I look forward to hearing from you 🕒.
+                    Are you open to a quick chat to discuss the opportunity? I’d love to learn more about it and share more about my own qualifications. I look forward to hearing from you soon 🕒.
                 </span>
                 <br>
                 <br>
