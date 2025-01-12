@@ -62,7 +62,7 @@ const getSpecificRoleTemplate = (emailDetails) => `<div dir="ltr">
                 <ol>
                     <li>JavaScript</li>
                     <li>Node.js</li>
-                    <li>React.js</li>
+                    <li>React.js/Next.js</li>
                     <li>AWS</li>
                     <li>TypeScript/Nest.js</li>
                     <li>PostgreSQL/Firebase/MongoDB</li>
@@ -129,7 +129,7 @@ const getTechRoleTemplate = (emailDetails) => `<div dir="ltr">
                 <ol>
                     <li>JavaScript</li>
                     <li>Node.js</li>
-                    <li>React.js</li>
+                    <li>React.js/Next.js</li>
                     <li>AWS</li>
                     <li>TypeScript/Nest.js</li>
                     <li>PostgreSQL/Firebase/MongoDB</li>
