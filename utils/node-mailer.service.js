@@ -88,7 +88,7 @@ const getSpecificRoleTemplate = (emailDetails) => `<div dir="ltr">
                     <div style="margin-left:10px">
                         <div>Vivek KV</div>
                         <div>💼 Technology Lead</div>
-                        <div>📍 Singapore</div>
+                        <div>📍 Hyderabad, India</div>
                         <div>
                             🌐 <a href="https://vivekkv.vercel.app" target="_blank">vivekkv.vercel.app</a>
                         </div>
@@ -155,7 +155,7 @@ const getTechRoleTemplate = (emailDetails) => `<div dir="ltr">
                     <div style="margin-left:10px">
                         <div>Vivek KV</div>
                         <div>💼 Technology Lead</div>
-                        <div>📍 Singapore</div>
+                        <div>📍 Hyderabad, India</div>
                         <div>
                             🌐 <a href="https://vivekkv.vercel.app" target="_blank">vivekkv.vercel.app</a>
                         </div>
