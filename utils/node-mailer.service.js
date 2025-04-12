@@ -87,7 +87,7 @@ const getSpecificRoleTemplate = (emailDetails) => `<div dir="ltr">
                     <div>Thanks &amp; Regards,</div>
                     <div style="margin-left:10px">
                         <div>Vivek KV</div>
-                        <div>💼 Technology Lead</div>
+                        <div>💼 Senior Full Stack Engineer</div>
                         <div>📍 Hyderabad, India</div>
                         <div>
                             🌐 <a href="https://vivekkv.vercel.app" target="_blank">vivekkv.vercel.app</a>
@@ -103,7 +103,7 @@ const getSpecificRoleTemplate = (emailDetails) => `<div dir="ltr">
                     </div>
                     <br/>
                     <div style="margin-left:10px">
-                        <img width="420" height="220" src="https://ci3.googleusercontent.com/mail-sig/AIorK4xfcRegKBDrXWlZJc7egCjCeN4gC0pnyXcsSyorsxBPNcCMMdBjcbfV1fBAZRmaf9BePfZba8NhNj-U" alt="Image">
+                        <img width="420" height="220" src="https://ci3.googleusercontent.com/mail-sig/AIorK4zX1hVroO6Jz6dJMS1zTH-LM2IZpNILORqxXhUVD72plUKWZLBI0rh8Sc_thENiDTua57nZSCpf9zde" alt="Image">
                     </div>
                 </div>
             </div>
@@ -154,7 +154,7 @@ const getTechRoleTemplate = (emailDetails) => `<div dir="ltr">
                     <div>Thanks &amp; Regards,</div>
                     <div style="margin-left:10px">
                         <div>Vivek KV</div>
-                        <div>💼 Technology Lead</div>
+                        <div>💼 Senior Full Stack Engineer</div>
                         <div>📍 Hyderabad, India</div>
                         <div>
                             🌐 <a href="https://vivekkv.vercel.app" target="_blank">vivekkv.vercel.app</a>
@@ -170,7 +170,7 @@ const getTechRoleTemplate = (emailDetails) => `<div dir="ltr">
                     </div>
                     <br/>
                     <div style="margin-left:10px">
-                        <img width="420" height="220" src="https://ci3.googleusercontent.com/mail-sig/AIorK4xfcRegKBDrXWlZJc7egCjCeN4gC0pnyXcsSyorsxBPNcCMMdBjcbfV1fBAZRmaf9BePfZba8NhNj-U" alt="Image">
+                        <img width="420" height="220" src="https://ci3.googleusercontent.com/mail-sig/AIorK4zX1hVroO6Jz6dJMS1zTH-LM2IZpNILORqxXhUVD72plUKWZLBI0rh8Sc_thENiDTua57nZSCpf9zde" alt="Image">
                     </div>
                 </div>
             </div>
